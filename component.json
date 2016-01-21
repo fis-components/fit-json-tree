@@ -1,0 +1,12 @@
+{
+    "name": "fit-json-tree",
+    "description": "json-tree",
+    "repos": "https://github.com/tb-component/pc-json-tree.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "fit-tree": "^0.0.2"
+    },
+    "version": "0.0.3"
+}
